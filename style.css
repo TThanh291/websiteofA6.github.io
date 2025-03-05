@@ -1,4 +1,4 @@
-style
+
 .banner
 {background: url("anhbia.png");
     background-size:cover;
@@ -11,6 +11,7 @@ style
 .slogan
 {text-align: center !important;
  width: 70px;
+ color:darkslategrey
 }
 .body{font-family: sans-serif !important;
       font-size: 50px !important;
@@ -26,7 +27,8 @@ style
 .footer{background-color: bisque;
         padding: 10px;
 }
-.image{display:block;
+.clickable-image{display:block;
        max-width:200px;
        height: 50px;
+       text-align:left !important;
 }
