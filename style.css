@@ -20,9 +20,9 @@
      color: red;
      font-size: 70px;
 }
-.table {width:200px;
-        height:220px;
-        border:"10%";
+.table {width:500px;
+        height:350px;
+        border:"1";
 }
 .footer{background-color: bisque;
         padding: 10px;
